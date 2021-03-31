@@ -1,0 +1,11 @@
+framework module trySwiftColorKitPro_macOS {
+  umbrella header "trySwiftColorKitPro_macOS.h"
+
+  export *
+  module * { export * }
+}
+
+module trySwiftColorKitPro_macOS.Swift {
+    header "trySwiftColorKitPro_macOS-Swift.h"
+    requires objc
+}

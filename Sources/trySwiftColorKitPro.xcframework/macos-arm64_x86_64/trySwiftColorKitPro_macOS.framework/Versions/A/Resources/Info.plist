@@ -7,13 +7,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>trySwiftColorKitPro</string>
+	<string>trySwiftColorKitPro_macOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>se.tryswift.colorkitpro.trySwiftColorKitPro</string>
+	<string>se.tryswift.colorkitpro.trySwiftColorKitPro-macOS</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>trySwiftColorKitPro</string>
+	<string>trySwiftColorKitPro_macOS</string>
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
@@ -41,10 +41,6 @@
 	<key>DTXcodeBuild</key>
 	<string>12D4e</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.15</string>
-	<key>UIDeviceFamily</key>
-	<array>
-		<integer>2</integer>
-	</array>
+	<string>11.1</string>
 </dict>
 </plist>

@@ -7,13 +7,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>trySwiftColorKitPro_macOS</string>
+	<string>trySwiftColorKitPro</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.danielsaidi.trySwiftColorKitPro-macOS</string>
+	<string>com.danielsaidi.trySwiftColorKitPro</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>trySwiftColorKitPro_macOS</string>
+	<string>trySwiftColorKitPro</string>
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>

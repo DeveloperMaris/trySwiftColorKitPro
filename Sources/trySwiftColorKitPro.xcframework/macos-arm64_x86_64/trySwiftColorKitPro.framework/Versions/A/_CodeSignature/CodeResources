@@ -6,121 +6,121 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		aC1LbmoyNF7e8dT5El2aPWtzL5g=
+		VeBCADgVZNKl6Ln3MbTmlHK3MHc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/trySwiftColorKitPro_macOS-Swift.h</key>
+		<key>Headers/trySwiftColorKitPro-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xnaqKODtaJk5x1j9wpbUTDEw7JR7f17e2tGzjT6EAMw=
+			CKWnrchD/jWOVJ1n03sUWliuTaG1p83xxscswDCATms=
 			</data>
 		</dict>
-		<key>Headers/trySwiftColorKitPro_macOS.h</key>
+		<key>Headers/trySwiftColorKitPro.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I24TiS02ZsIKZSBYl1r9QOipoFtrUva93R3w3qb0zbE=
+			4JjltiTAl4L0In/6tNNoGSK1zbXxn2+Beg/xwHDQp1A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dn2EHo5TgFNDHTvtlEZP0k9zoxcQnx/zfdBCINVYDcA=
+			ExXse1ZFBthAUZcE9IYxxdkF2IGcu9aMKtG7lOdRcAk=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/arm64-apple-macos.swiftdoc</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TbIzVBy2ju0i3I0rHDSjszt2Opy4j3Sr79dz1I+j5fQ=
+			iUmvSdZAXUqmJUN65BedhTMCtGait49fmZgIz9fAKZg=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/arm64-apple-macos.swiftinterface</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xoST+7x2lBQHJrYp+HHMOmEWjCxPdCAPFr0VSYOv7wI=
+			R8/A5Pi5WCAoZuBurUm6/zC1eI+koz+MLede3AiWthk=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/arm64-apple-macos.swiftmodule</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hFQawYy1WoAFTmELQLyTKgNQagPyf2FTECElxQxsa0=
+			BdXX2guVy3CAlkQkP27Pb8ehCEW74o6OzsnrrJMD6i8=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TbIzVBy2ju0i3I0rHDSjszt2Opy4j3Sr79dz1I+j5fQ=
+			iUmvSdZAXUqmJUN65BedhTMCtGait49fmZgIz9fAKZg=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/arm64.swiftinterface</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xoST+7x2lBQHJrYp+HHMOmEWjCxPdCAPFr0VSYOv7wI=
+			R8/A5Pi5WCAoZuBurUm6/zC1eI+koz+MLede3AiWthk=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hFQawYy1WoAFTmELQLyTKgNQagPyf2FTECElxQxsa0=
+			BdXX2guVy3CAlkQkP27Pb8ehCEW74o6OzsnrrJMD6i8=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/x86_64-apple-macos.swiftdoc</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NuV/OSLCu26PzvzPGTHNFr0H39/A+SNcuPhZUeAYRDI=
+			SBTAn53t9IEcvu13rr1xU3g6GvqnowpCgcnmlYH4Z/g=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/x86_64-apple-macos.swiftinterface</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emYNl3c6dgpvcr9MLFtRG3961YY6ZgRj+Cv7xYQPe3M=
+			UprMq5Rr4uVc1ctjdhzJJicCkJXuqMDnx8J/dw2m1/k=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/x86_64-apple-macos.swiftmodule</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3cn6X60Hl/LRbqgMX9MJ5e02q/sazfzCWvhuFWd6b0=
+			Ovmweq2ps6yFKhh8VuoutC429nlJ10lVlnT5GDbk75Q=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NuV/OSLCu26PzvzPGTHNFr0H39/A+SNcuPhZUeAYRDI=
+			SBTAn53t9IEcvu13rr1xU3g6GvqnowpCgcnmlYH4Z/g=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/x86_64.swiftinterface</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emYNl3c6dgpvcr9MLFtRG3961YY6ZgRj+Cv7xYQPe3M=
+			UprMq5Rr4uVc1ctjdhzJJicCkJXuqMDnx8J/dw2m1/k=
 			</data>
 		</dict>
-		<key>Modules/trySwiftColorKitPro_macOS.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/trySwiftColorKitPro.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3cn6X60Hl/LRbqgMX9MJ5e02q/sazfzCWvhuFWd6b0=
+			Ovmweq2ps6yFKhh8VuoutC429nlJ10lVlnT5GDbk75Q=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QiMcpkpE35+VFNNElZxBfyZy2eCBNEjdAH0K/xWqNkQ=
+			hKLb1hvGExOKLJBAzQ6Iu4eHquPSKC3l5jjWBz8DOfU=
 			</data>
 		</dict>
 	</dict>
